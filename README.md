@@ -18,11 +18,11 @@ Trading stocks successfully requires a thorough understanding of price trends an
 
 ## Requirements
 
--Project ideation
--Data fetching/API integration
--Data analysis
--Testing
--Creating documentation
+ -Project ideation
+ -Data fetching/API integration
+ -Data analysis
+ -Testing
+ -Creating documentation
 
 ## Libraries Used 
  
@@ -36,6 +36,8 @@ Trading stocks successfully requires a thorough understanding of price trends an
  -holoviews
  
  ## Features 
+ ### Downloaded Stock Data
+ The stock data that we downloaded from came from trading veiw and we also pull search trend data from google search trends.
  
  ### Stocks, Basic Trading Algorithm, Machine Learning Models
 - ! [Closing Stock Prices](Resources/closing_stock_price.png)
@@ -53,7 +55,7 @@ Trading stocks successfully requires a thorough understanding of price trends an
  
  ## Finding and Conlusions
  
- While the neural network did improve trading performance over the basic algo in most cases, it is far from optimal (especially considering we fail to beat the buy-and-hold performance of the stocks from 2014-2022). 
+While the neural network did improve trading performance over the basic algo in most cases, it is far from optimal (especially considering we fail to beat the buy-and-hold performance of the stocks from 2014-2022). 
 If we had more time, we might try:
 More feature engineering (adding more, removing some, principal component analyses & dimensionality reduction)
 Different supervised learning models & ensemble learning methods (“Voting Classification”)
