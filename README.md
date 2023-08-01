@@ -1,8 +1,5 @@
 # Project2
 Fintech BootCamp Project 2
-# Project2
-
-Fintech BootCamp Project 2
 
 # Billionaire Brawl
 
