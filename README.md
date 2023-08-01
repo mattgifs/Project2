@@ -38,18 +38,17 @@ Trading stocks successfully requires a thorough understanding of price trends an
  ## Features 
  
  ### Stocks, Basic Trading Algorithm, Machine Learning Models
- 
-! [Closing Stock Prices](Resources/closing_stock_price.png)
-! [Basic and Machine Learning Algorithm](Resources/algo_eval.png)
-! [Classification Report Amazon](Resources/classification_amzn.png) 
-! [Classifcation Report Meta](Resources/classification_meta.png)
-! [Classification Report Tesla](Resources/classifcation_tsla.png)
-! [AMZN Basic Algo](Images/AMZN_basic_algo.png)
-! [META Basic Algo](Images/META_basic_algo.png)
-! [TSLA Basic Algo](Images/TSLA_basic_algo.png)
-! [AMZN Neural Network Algo](Images/AMZN_nn_algo.png)
-! [META Neural Network Algo](Images/META_nn_algo.png)
-! [TSLA Neural Network Algo](Images/TSLA_nn_algo.png)
+- ! [Closing Stock Prices](Resources/closing_stock_price.png)
+- ! [Basic and Machine Learning Algorithm](Resources/algo_eval.png)
+- ! [Classification Report Amazon](Resources/classification_amzn.png) 
+- ! [Classifcation Report Meta](Resources/classification_meta.png)
+- ! [Classification Report Tesla](Resources/classifcation_tsla.png)
+- ! [AMZN Basic Algo](Images/AMZN_basic_algo.png)
+- ! [META Basic Algo](Images/META_basic_algo.png)
+- ! [TSLA Basic Algo](Images/TSLA_basic_algo.png)
+- ! [AMZN Neural Network Algo](Images/AMZN_nn_algo.png)
+- ! [META Neural Network Algo](Images/META_nn_algo.png)
+- ! [TSLA Neural Network Algo](Images/TSLA_nn_algo.png)
  
  
  ## Finding and Conlusions
