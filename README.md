@@ -7,6 +7,7 @@ Fintech BootCamp Project 2
 # Billionaire Brawl
 
  Final Project located in files:
+     
      -basic_trading_algo.ip
      -Neural_Network_algorithm.ipynb
      -ML_trading_algo.ipynb
